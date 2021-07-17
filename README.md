@@ -5,3 +5,6 @@
 * Sequential A/B Testing：只需要加減法的 A/B Testing
   * [部落格圖文教學](https://haosquare.com/sequential-ab-testing/)
   * [Google Colab Notebook: sequential_ab_testing.ipynb](https://colab.research.google.com/github/KuanHaoHuang/learn-ab-testing/blob/master/sequential_ab_testing.ipynb)
+* A/A Test：商業實驗不能忘的前置動作
+  * [部落格圖文教學](https://haosquare.com/aa-testing-before-ab-testing/)
+  * [Google Colab Notebook: aa_testing.ipynb](https://colab.research.google.com/github/KuanHaoHuang/learn-ab-testing/blob/master/aa_testing.ipynb)
