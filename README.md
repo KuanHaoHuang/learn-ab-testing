@@ -8,3 +8,6 @@
 * A/A Test：商業實驗不能忘的前置動作
   * [部落格圖文教學](https://haosquare.com/aa-testing-before-ab-testing/)
   * [Google Colab Notebook: aa_testing.ipynb](https://colab.research.google.com/github/KuanHaoHuang/learn-ab-testing/blob/master/aa_testing.ipynb)
+* 比例數據的 A/B Testing 該用卡方還是 Z 檢定？
+  * [部落格圖文教學](https://haosquare.com/hypothesis-testing-for-proportion/)
+  * R 語言程式碼：[hypothesis-testing-for-proportion.R](https://github.com/KuanHaoHuang/learn-ab-testing/blob/master/hypothesis-testing-for-proportion.R)
