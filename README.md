@@ -11,3 +11,5 @@
 * 比例數據的 A/B Testing 該用卡方還是 Z 檢定？
   * [部落格圖文教學](https://haosquare.com/hypothesis-testing-for-proportion/)
   * R 語言程式碼：[hypothesis-testing-for-proportion.R](https://github.com/KuanHaoHuang/learn-ab-testing/blob/master/hypothesis-testing-for-proportion.R)
+* 多重檢定問題：一定會有人中樂透
+  * [部落格圖文教學](https://haosquare.com/tag/ab-testing/)
