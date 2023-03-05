@@ -13,3 +13,5 @@
   * R 語言程式碼：[hypothesis-testing-for-proportion.R](https://github.com/KuanHaoHuang/learn-ab-testing/blob/master/hypothesis-testing-for-proportion.R)
 * 多重檢定問題：一定會有人中樂透
   * [部落格圖文教學](https://haosquare.com/multiple-testing-intro/)
+* 單尾與雙尾檢定，該選哪一個？
+  * [部落格圖文教學](https://haosquare.com/one-tailed-vs-two-tailed-test/)
